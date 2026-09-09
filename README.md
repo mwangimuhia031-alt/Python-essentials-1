@@ -70,7 +70,7 @@ Python-essentials-1/
 
 ---
 
-## 📚 Module Breakdown
+## Module Breakdown
 
 ### **Python Scripts (Foundational Layer)**
 
@@ -227,7 +227,7 @@ Synthesized Peptide Residues: M (START)-A-K-P-G-G
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### **Prerequisites**
 
@@ -308,7 +308,7 @@ jupyter notebook
 
 ---
 
-## 🔑 Key Concepts Covered
+##  Key Concepts Covered
 
 ### **Fundamental Programming Concepts**
 - ✅ Variable assignment and naming conventions
@@ -472,7 +472,7 @@ sequence = ''.join(c for c in sequence if c in 'ATCG')
 
 ---
 
-## 📝 File Manifest
+##  File Manifest
 
 ### **Python Scripts (9 files)**
 - Variables.py (720 bytes)
@@ -507,7 +507,7 @@ sequence = ''.join(c for c in sequence if c in 'ATCG')
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 After completing this repository, you will:
 
@@ -521,7 +521,7 @@ After completing this repository, you will:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This repository is a personal learning project. To adapt it for your own use:
 
@@ -533,13 +533,13 @@ This repository is a personal learning project. To adapt it for your own use:
 
 ---
 
-## 📄 License
+##  License
 
 This educational repository is provided as-is for learning purposes. Feel free to use, modify, and share with proper attribution.
 
 ---
 
-## 🔗 Quick Links
+##  Quick Links
 
 - **Repository**: https://github.com/mwangimuhia031-alt/Python-essentials-1
 - **Python Docs**: https://docs.python.org/3/
@@ -548,7 +548,7 @@ This educational repository is provided as-is for learning purposes. Feel free t
 
 ---
 
-## ⭐ Repository Statistics
+##  Repository Statistics
 
 - **Language Composition**: 77.6% Jupyter Notebook | 22.4% Python
 - **Total Files**: 22 learning materials
@@ -558,7 +558,7 @@ This educational repository is provided as-is for learning purposes. Feel free t
 
 ---
 
-## 📧 Questions?
+##  Questions?
 
 For questions about this repository:
 - Check the existing documentation in each notebook
@@ -568,4 +568,3 @@ For questions about this repository:
 
 ---
 
-**Happy Learning! 🐍📚**
